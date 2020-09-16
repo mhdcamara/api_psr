@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-API_PSR-API_PSRTests/Pods-API_PSR-API_PSRTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/EzPopup/EzPopup.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

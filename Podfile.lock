@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.2)
+  - EzPopup (1.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - EzPopup
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EzPopup
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  EzPopup: b959cfb0d70d782a28e770a96c454df0401467c7
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 9cb5eafaf1a4edaa4a6457eb1512a7346d448c14
+
+COCOAPODS: 1.9.3
