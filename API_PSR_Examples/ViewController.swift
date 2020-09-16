@@ -10,7 +10,6 @@
 import UIKit
 
 
-
 //import EzPopup
 //import Alamofire
 //import SwiftyJSON
@@ -42,7 +41,7 @@ class ViewController: UIViewController
     override func viewDidLoad()
     {
         super.viewDidLoad()
-        
+        view.backgroundColor = .brown
     }
 //
 //    //MARK: Privates Function

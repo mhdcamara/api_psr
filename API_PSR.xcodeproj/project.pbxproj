@@ -15,49 +15,6 @@
 		CD0AAA4025126D950064A262 /* API_PSR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD0AAA3625126D940064A262 /* API_PSR.framework */; };
 		CD0AAA4525126D950064A262 /* API_PSRTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA4425126D950064A262 /* API_PSRTests.swift */; };
 		CD0AAA4725126D950064A262 /* API_PSR.h in Headers */ = {isa = PBXBuildFile; fileRef = CD0AAA3925126D940064A262 /* API_PSR.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CD0AAA9025126FC70064A262 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA5125126FC60064A262 /* LaunchScreen.storyboard */; };
-		CD0AAA9125126FC70064A262 /* PD.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA5325126FC60064A262 /* PD.storyboard */; };
-		CD0AAA9225126FC70064A262 /* MTNB.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA5825126FC60064A262 /* MTNB.swift */; };
-		CD0AAA9325126FC70064A262 /* Benin.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA5925126FC60064A262 /* Benin.swift */; };
-		CD0AAA9425126FC70064A262 /* Benin.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA5B25126FC60064A262 /* Benin.xib */; };
-		CD0AAA9525126FC70064A262 /* MTNB.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA5C25126FC60064A262 /* MTNB.xib */; };
-		CD0AAA9625126FC70064A262 /* PayDunya.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA5F25126FC60064A262 /* PayDunya.swift */; };
-		CD0AAA9725126FC70064A262 /* OrangeMoney.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA6025126FC60064A262 /* OrangeMoney.swift */; };
-		CD0AAA9825126FC70064A262 /* Visa.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA6125126FC60064A262 /* Visa.swift */; };
-		CD0AAA9925126FC70064A262 /* WizAll.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA6225126FC60064A262 /* WizAll.swift */; };
-		CD0AAA9A25126FC70064A262 /* Wari.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA6325126FC60064A262 /* Wari.swift */; };
-		CD0AAA9B25126FC70064A262 /* Senegal.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA6425126FC60064A262 /* Senegal.swift */; };
-		CD0AAA9C25126FC70064A262 /* Senegal.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA6625126FC60064A262 /* Senegal.xib */; };
-		CD0AAA9D25126FC70064A262 /* Visa.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA6725126FC60064A262 /* Visa.xib */; };
-		CD0AAA9E25126FC70064A262 /* Wari.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA6825126FC60064A262 /* Wari.xib */; };
-		CD0AAA9F25126FC70064A262 /* WizAll.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA6925126FC60064A262 /* WizAll.xib */; };
-		CD0AAAA025126FC70064A262 /* OrangeMoney.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA6A25126FC60064A262 /* OrangeMoney.xib */; };
-		CD0AAAA125126FC70064A262 /* PayDunya.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA6B25126FC60064A262 /* PayDunya.xib */; };
-		CD0AAAA225126FC70064A262 /* MTNCI.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA6E25126FC60064A262 /* MTNCI.swift */; };
-		CD0AAAA325126FC70064A262 /* CIvoire.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA6F25126FC60064A262 /* CIvoire.swift */; };
-		CD0AAAA425126FC70064A262 /* OrangeMoneyCI.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA7025126FC70064A262 /* OrangeMoneyCI.swift */; };
-		CD0AAAA525126FC70064A262 /* MTNCI.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA7225126FC70064A262 /* MTNCI.xib */; };
-		CD0AAAA625126FC70064A262 /* CIvoire.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA7325126FC70064A262 /* CIvoire.xib */; };
-		CD0AAAA725126FC70064A262 /* OrangeMoneyCI.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA7425126FC70064A262 /* OrangeMoneyCI.xib */; };
-		CD0AAAA825126FC70064A262 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA7625126FC70064A262 /* Colors.xcassets */; };
-		CD0AAAA925126FC70064A262 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA7725126FC70064A262 /* Assets.xcassets */; };
-		CD0AAAAA25126FC70064A262 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA7825126FC70064A262 /* AppDelegate.swift */; };
-		CD0AAAAB25126FC70064A262 /* psr_api.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA7925126FC70064A262 /* psr_api.xcdatamodeld */; };
-		CD0AAAAC25126FC70064A262 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAA7B25126FC70064A262 /* Info.plist */; };
-		CD0AAAAD25126FC70064A262 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA7C25126FC70064A262 /* SceneDelegate.swift */; };
-		CD0AAAAE25126FC70064A262 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA7E25126FC70064A262 /* UIButtonExtension.swift */; };
-		CD0AAAAF25126FC70064A262 /* UITextFieldExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA7F25126FC70064A262 /* UITextFieldExtension.swift */; };
-		CD0AAAB025126FC70064A262 /* AlerteExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8025126FC70064A262 /* AlerteExtension.swift */; };
-		CD0AAAB125126FC70064A262 /* PaydunyaInvoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8225126FC70064A262 /* PaydunyaInvoice.swift */; };
-		CD0AAAB225126FC70064A262 /* PaydunyaStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8325126FC70064A262 /* PaydunyaStore.swift */; };
-		CD0AAAB325126FC70064A262 /* WizAllMoney.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8525126FC70064A262 /* WizAllMoney.swift */; };
-		CD0AAAB425126FC70064A262 /* OrangMoney.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8625126FC70064A262 /* OrangMoney.swift */; };
-		CD0AAAB525126FC70064A262 /* PaydunyaSetup.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8725126FC70064A262 /* PaydunyaSetup.swift */; };
-		CD0AAAB625126FC70064A262 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8925126FC70064A262 /* Constants.swift */; };
-		CD0AAAB725126FC70064A262 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8A25126FC70064A262 /* Colors.swift */; };
-		CD0AAAB825126FC70064A262 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8C25126FC70064A262 /* ViewController.swift */; };
-		CD0AAAB925126FC70064A262 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8D25126FC70064A262 /* MainViewController.swift */; };
-		CD0AAABA25126FC70064A262 /* StatePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAA8F25126FC70064A262 /* StatePickerViewController.swift */; };
 		CD0AAAC2251271280064A262 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAAC1251271280064A262 /* AppDelegate.swift */; };
 		CD0AAAC4251271280064A262 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAAC3251271280064A262 /* SceneDelegate.swift */; };
 		CD0AAAC6251271280064A262 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0AAAC5251271280064A262 /* ViewController.swift */; };
@@ -112,49 +69,6 @@
 		CD0AAA3F25126D950064A262 /* API_PSRTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = API_PSRTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD0AAA4425126D950064A262 /* API_PSRTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_PSRTests.swift; sourceTree = "<group>"; };
 		CD0AAA4625126D950064A262 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CD0AAA5225126FC60064A262 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		CD0AAA5425126FC60064A262 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/PD.storyboard; sourceTree = "<group>"; };
-		CD0AAA5825126FC60064A262 /* MTNB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MTNB.swift; sourceTree = "<group>"; };
-		CD0AAA5925126FC60064A262 /* Benin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Benin.swift; sourceTree = "<group>"; };
-		CD0AAA5B25126FC60064A262 /* Benin.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Benin.xib; sourceTree = "<group>"; };
-		CD0AAA5C25126FC60064A262 /* MTNB.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MTNB.xib; sourceTree = "<group>"; };
-		CD0AAA5F25126FC60064A262 /* PayDunya.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PayDunya.swift; sourceTree = "<group>"; };
-		CD0AAA6025126FC60064A262 /* OrangeMoney.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrangeMoney.swift; sourceTree = "<group>"; };
-		CD0AAA6125126FC60064A262 /* Visa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Visa.swift; sourceTree = "<group>"; };
-		CD0AAA6225126FC60064A262 /* WizAll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WizAll.swift; sourceTree = "<group>"; };
-		CD0AAA6325126FC60064A262 /* Wari.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Wari.swift; sourceTree = "<group>"; };
-		CD0AAA6425126FC60064A262 /* Senegal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Senegal.swift; sourceTree = "<group>"; };
-		CD0AAA6625126FC60064A262 /* Senegal.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Senegal.xib; sourceTree = "<group>"; };
-		CD0AAA6725126FC60064A262 /* Visa.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Visa.xib; sourceTree = "<group>"; };
-		CD0AAA6825126FC60064A262 /* Wari.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Wari.xib; sourceTree = "<group>"; };
-		CD0AAA6925126FC60064A262 /* WizAll.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WizAll.xib; sourceTree = "<group>"; };
-		CD0AAA6A25126FC60064A262 /* OrangeMoney.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OrangeMoney.xib; sourceTree = "<group>"; };
-		CD0AAA6B25126FC60064A262 /* PayDunya.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PayDunya.xib; sourceTree = "<group>"; };
-		CD0AAA6E25126FC60064A262 /* MTNCI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MTNCI.swift; sourceTree = "<group>"; };
-		CD0AAA6F25126FC60064A262 /* CIvoire.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CIvoire.swift; sourceTree = "<group>"; };
-		CD0AAA7025126FC70064A262 /* OrangeMoneyCI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrangeMoneyCI.swift; sourceTree = "<group>"; };
-		CD0AAA7225126FC70064A262 /* MTNCI.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MTNCI.xib; sourceTree = "<group>"; };
-		CD0AAA7325126FC70064A262 /* CIvoire.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CIvoire.xib; sourceTree = "<group>"; };
-		CD0AAA7425126FC70064A262 /* OrangeMoneyCI.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OrangeMoneyCI.xib; sourceTree = "<group>"; };
-		CD0AAA7625126FC70064A262 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
-		CD0AAA7725126FC70064A262 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CD0AAA7825126FC70064A262 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CD0AAA7A25126FC70064A262 /* psr_api.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = psr_api.xcdatamodel; sourceTree = "<group>"; };
-		CD0AAA7B25126FC70064A262 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CD0AAA7C25126FC70064A262 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		CD0AAA7E25126FC70064A262 /* UIButtonExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
-		CD0AAA7F25126FC70064A262 /* UITextFieldExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextFieldExtension.swift; sourceTree = "<group>"; };
-		CD0AAA8025126FC70064A262 /* AlerteExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlerteExtension.swift; sourceTree = "<group>"; };
-		CD0AAA8225126FC70064A262 /* PaydunyaInvoice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaydunyaInvoice.swift; sourceTree = "<group>"; };
-		CD0AAA8325126FC70064A262 /* PaydunyaStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaydunyaStore.swift; sourceTree = "<group>"; };
-		CD0AAA8525126FC70064A262 /* WizAllMoney.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WizAllMoney.swift; sourceTree = "<group>"; };
-		CD0AAA8625126FC70064A262 /* OrangMoney.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrangMoney.swift; sourceTree = "<group>"; };
-		CD0AAA8725126FC70064A262 /* PaydunyaSetup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaydunyaSetup.swift; sourceTree = "<group>"; };
-		CD0AAA8925126FC70064A262 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		CD0AAA8A25126FC70064A262 /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
-		CD0AAA8C25126FC70064A262 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		CD0AAA8D25126FC70064A262 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		CD0AAA8F25126FC70064A262 /* StatePickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatePickerViewController.swift; sourceTree = "<group>"; };
 		CD0AAABF251271280064A262 /* API_PSR_Examples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = API_PSR_Examples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD0AAAC1251271280064A262 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD0AAAC3251271280064A262 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -276,12 +190,7 @@
 		CD0AAA3825126D940064A262 /* API_PSR */ = {
 			isa = PBXGroup;
 			children = (
-				CD0AAA8B25126FC70064A262 /* Controller */,
-				CD0AAA7D25126FC70064A262 /* Extensions */,
-				CD0AAA7525126FC70064A262 /* Files */,
-				CD0AAA8125126FC70064A262 /* Model */,
-				CD0AAA8825126FC70064A262 /* Tools */,
-				CD0AAA5025126FC60064A262 /* View */,
+				CDA8382E2512817A00D07989 /* Source */,
 				CD0AAA3925126D940064A262 /* API_PSR.h */,
 				CD0AAA3A25126D940064A262 /* Info.plist */,
 			);
@@ -297,193 +206,6 @@
 			path = API_PSRTests;
 			sourceTree = "<group>";
 		};
-		CD0AAA5025126FC60064A262 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA5125126FC60064A262 /* LaunchScreen.storyboard */,
-				CD0AAA5325126FC60064A262 /* PD.storyboard */,
-				CD0AAA5525126FC60064A262 /* Files */,
-			);
-			name = View;
-			path = ../../psr_plugin_ios/psr_api/View;
-			sourceTree = "<group>";
-		};
-		CD0AAA5525126FC60064A262 /* Files */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA5625126FC60064A262 /* Benin */,
-				CD0AAA5D25126FC60064A262 /* Senegal */,
-				CD0AAA6C25126FC60064A262 /* CodeDIvoire */,
-			);
-			path = Files;
-			sourceTree = "<group>";
-		};
-		CD0AAA5625126FC60064A262 /* Benin */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA5725126FC60064A262 /* Controller */,
-				CD0AAA5A25126FC60064A262 /* View */,
-			);
-			path = Benin;
-			sourceTree = "<group>";
-		};
-		CD0AAA5725126FC60064A262 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA5825126FC60064A262 /* MTNB.swift */,
-				CD0AAA5925126FC60064A262 /* Benin.swift */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		CD0AAA5A25126FC60064A262 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA5B25126FC60064A262 /* Benin.xib */,
-				CD0AAA5C25126FC60064A262 /* MTNB.xib */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		CD0AAA5D25126FC60064A262 /* Senegal */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA5E25126FC60064A262 /* Controller */,
-				CD0AAA6525126FC60064A262 /* View */,
-			);
-			path = Senegal;
-			sourceTree = "<group>";
-		};
-		CD0AAA5E25126FC60064A262 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA5F25126FC60064A262 /* PayDunya.swift */,
-				CD0AAA6025126FC60064A262 /* OrangeMoney.swift */,
-				CD0AAA6125126FC60064A262 /* Visa.swift */,
-				CD0AAA6225126FC60064A262 /* WizAll.swift */,
-				CD0AAA6325126FC60064A262 /* Wari.swift */,
-				CD0AAA6425126FC60064A262 /* Senegal.swift */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		CD0AAA6525126FC60064A262 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA6625126FC60064A262 /* Senegal.xib */,
-				CD0AAA6725126FC60064A262 /* Visa.xib */,
-				CD0AAA6825126FC60064A262 /* Wari.xib */,
-				CD0AAA6925126FC60064A262 /* WizAll.xib */,
-				CD0AAA6A25126FC60064A262 /* OrangeMoney.xib */,
-				CD0AAA6B25126FC60064A262 /* PayDunya.xib */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		CD0AAA6C25126FC60064A262 /* CodeDIvoire */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA6D25126FC60064A262 /* Controller */,
-				CD0AAA7125126FC70064A262 /* View */,
-			);
-			path = CodeDIvoire;
-			sourceTree = "<group>";
-		};
-		CD0AAA6D25126FC60064A262 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA6E25126FC60064A262 /* MTNCI.swift */,
-				CD0AAA6F25126FC60064A262 /* CIvoire.swift */,
-				CD0AAA7025126FC70064A262 /* OrangeMoneyCI.swift */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		CD0AAA7125126FC70064A262 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA7225126FC70064A262 /* MTNCI.xib */,
-				CD0AAA7325126FC70064A262 /* CIvoire.xib */,
-				CD0AAA7425126FC70064A262 /* OrangeMoneyCI.xib */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		CD0AAA7525126FC70064A262 /* Files */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA7625126FC70064A262 /* Colors.xcassets */,
-				CD0AAA7725126FC70064A262 /* Assets.xcassets */,
-				CD0AAA7825126FC70064A262 /* AppDelegate.swift */,
-				CD0AAA7925126FC70064A262 /* psr_api.xcdatamodeld */,
-				CD0AAA7B25126FC70064A262 /* Info.plist */,
-				CD0AAA7C25126FC70064A262 /* SceneDelegate.swift */,
-			);
-			name = Files;
-			path = ../../psr_plugin_ios/psr_api/Files;
-			sourceTree = "<group>";
-		};
-		CD0AAA7D25126FC70064A262 /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA7E25126FC70064A262 /* UIButtonExtension.swift */,
-				CD0AAA7F25126FC70064A262 /* UITextFieldExtension.swift */,
-				CD0AAA8025126FC70064A262 /* AlerteExtension.swift */,
-			);
-			name = Extensions;
-			path = ../../psr_plugin_ios/psr_api/Extensions;
-			sourceTree = "<group>";
-		};
-		CD0AAA8125126FC70064A262 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA8225126FC70064A262 /* PaydunyaInvoice.swift */,
-				CD0AAA8325126FC70064A262 /* PaydunyaStore.swift */,
-				CD0AAA8425126FC70064A262 /* Senegal */,
-				CD0AAA8725126FC70064A262 /* PaydunyaSetup.swift */,
-			);
-			name = Model;
-			path = ../../psr_plugin_ios/psr_api/Model;
-			sourceTree = "<group>";
-		};
-		CD0AAA8425126FC70064A262 /* Senegal */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA8525126FC70064A262 /* WizAllMoney.swift */,
-				CD0AAA8625126FC70064A262 /* OrangMoney.swift */,
-			);
-			path = Senegal;
-			sourceTree = "<group>";
-		};
-		CD0AAA8825126FC70064A262 /* Tools */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA8925126FC70064A262 /* Constants.swift */,
-				CD0AAA8A25126FC70064A262 /* Colors.swift */,
-			);
-			name = Tools;
-			path = ../../psr_plugin_ios/psr_api/Tools;
-			sourceTree = "<group>";
-		};
-		CD0AAA8B25126FC70064A262 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				CD0AAA8C25126FC70064A262 /* ViewController.swift */,
-				CD0AAA8D25126FC70064A262 /* MainViewController.swift */,
-				CD0AAA8E25126FC70064A262 /* Senegal */,
-				CD0AAA8F25126FC70064A262 /* StatePickerViewController.swift */,
-			);
-			name = Controller;
-			path = ../../psr_plugin_ios/psr_api/Controller;
-			sourceTree = "<group>";
-		};
-		CD0AAA8E25126FC70064A262 /* Senegal */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Senegal;
-			sourceTree = "<group>";
-		};
 		CD0AAAC0251271280064A262 /* API_PSR_Examples */ = {
 			isa = PBXGroup;
 			children = (
@@ -496,6 +218,29 @@
 				CD0AAACF2512712A0064A262 /* Info.plist */,
 			);
 			path = API_PSR_Examples;
+			sourceTree = "<group>";
+		};
+		CDA8382E2512817A00D07989 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				CDA8382F2512819500D07989 /* Files */,
+				CDA838302512819500D07989 /* Tools */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		CDA8382F2512819500D07989 /* Files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Files;
+			sourceTree = "<group>";
+		};
+		CDA838302512819500D07989 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -665,22 +410,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD0AAAAC25126FC70064A262 /* Info.plist in Resources */,
-				CD0AAA9025126FC70064A262 /* LaunchScreen.storyboard in Resources */,
-				CD0AAAA625126FC70064A262 /* CIvoire.xib in Resources */,
-				CD0AAA9425126FC70064A262 /* Benin.xib in Resources */,
-				CD0AAA9E25126FC70064A262 /* Wari.xib in Resources */,
-				CD0AAAA925126FC70064A262 /* Assets.xcassets in Resources */,
-				CD0AAA9525126FC70064A262 /* MTNB.xib in Resources */,
-				CD0AAA9125126FC70064A262 /* PD.storyboard in Resources */,
-				CD0AAAA725126FC70064A262 /* OrangeMoneyCI.xib in Resources */,
-				CD0AAAA525126FC70064A262 /* MTNCI.xib in Resources */,
-				CD0AAA9D25126FC70064A262 /* Visa.xib in Resources */,
-				CD0AAA9F25126FC70064A262 /* WizAll.xib in Resources */,
-				CD0AAA9C25126FC70064A262 /* Senegal.xib in Resources */,
-				CD0AAAA125126FC70064A262 /* PayDunya.xib in Resources */,
-				CD0AAAA025126FC70064A262 /* OrangeMoney.xib in Resources */,
-				CD0AAAA825126FC70064A262 /* Colors.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -886,33 +615,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD0AAAB825126FC70064A262 /* ViewController.swift in Sources */,
-				CD0AAAB925126FC70064A262 /* MainViewController.swift in Sources */,
-				CD0AAAAA25126FC70064A262 /* AppDelegate.swift in Sources */,
-				CD0AAAB725126FC70064A262 /* Colors.swift in Sources */,
-				CD0AAAAD25126FC70064A262 /* SceneDelegate.swift in Sources */,
-				CD0AAAA425126FC70064A262 /* OrangeMoneyCI.swift in Sources */,
-				CD0AAA9725126FC70064A262 /* OrangeMoney.swift in Sources */,
-				CD0AAABA25126FC70064A262 /* StatePickerViewController.swift in Sources */,
-				CD0AAAA325126FC70064A262 /* CIvoire.swift in Sources */,
-				CD0AAA9825126FC70064A262 /* Visa.swift in Sources */,
-				CD0AAAB625126FC70064A262 /* Constants.swift in Sources */,
-				CD0AAA9925126FC70064A262 /* WizAll.swift in Sources */,
-				CD0AAAB325126FC70064A262 /* WizAllMoney.swift in Sources */,
-				CD0AAA9A25126FC70064A262 /* Wari.swift in Sources */,
-				CD0AAA9325126FC70064A262 /* Benin.swift in Sources */,
-				CD0AAAAF25126FC70064A262 /* UITextFieldExtension.swift in Sources */,
-				CD0AAAAB25126FC70064A262 /* psr_api.xcdatamodeld in Sources */,
-				CD0AAA9625126FC70064A262 /* PayDunya.swift in Sources */,
-				CD0AAAB025126FC70064A262 /* AlerteExtension.swift in Sources */,
-				CD0AAAAE25126FC70064A262 /* UIButtonExtension.swift in Sources */,
-				CD0AAAB125126FC70064A262 /* PaydunyaInvoice.swift in Sources */,
-				CD0AAAB525126FC70064A262 /* PaydunyaSetup.swift in Sources */,
-				CD0AAA9225126FC70064A262 /* MTNB.swift in Sources */,
-				CD0AAA9B25126FC70064A262 /* Senegal.swift in Sources */,
-				CD0AAAA225126FC70064A262 /* MTNCI.swift in Sources */,
-				CD0AAAB425126FC70064A262 /* OrangMoney.swift in Sources */,
-				CD0AAAB225126FC70064A262 /* PaydunyaStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -969,22 +671,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		CD0AAA5125126FC60064A262 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CD0AAA5225126FC60064A262 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		CD0AAA5325126FC60064A262 /* PD.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CD0AAA5425126FC60064A262 /* Base */,
-			);
-			name = PD.storyboard;
-			sourceTree = "<group>";
-		};
 		CD0AAAC7251271280064A262 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -1178,7 +864,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DA4D2EC88B0DD5653F0B91B6 /* Pods-API_PSR-API_PSRTests.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6SA5U5Q7BM;
 				INFOPLIST_FILE = API_PSRTests/Info.plist;
@@ -1198,7 +883,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B45F80187A2538020E5208C9 /* Pods-API_PSR-API_PSRTests.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6SA5U5Q7BM;
 				INFOPLIST_FILE = API_PSRTests/Info.plist;
@@ -1398,19 +1082,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		CD0AAA7925126FC70064A262 /* psr_api.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				CD0AAA7A25126FC70064A262 /* psr_api.xcdatamodel */,
-			);
-			currentVersion = CD0AAA7A25126FC70064A262 /* psr_api.xcdatamodel */;
-			path = psr_api.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = CD0AAA2D25126D940064A262 /* Project object */;
 }
