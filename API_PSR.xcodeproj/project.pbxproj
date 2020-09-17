@@ -21,6 +21,8 @@
 		CD0AAAC9251271280064A262 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAAC7251271280064A262 /* Main.storyboard */; };
 		CD0AAACB2512712A0064A262 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAACA2512712A0064A262 /* Assets.xcassets */; };
 		CD0AAACE2512712A0064A262 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0AAACC2512712A0064A262 /* LaunchScreen.storyboard */; };
+		CD122B6B25136A3B00702B44 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD122B6A25136A3B00702B44 /* Colors.swift */; };
+		CD122B6D25136A9100702B44 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD122B6C25136A9100702B44 /* Colors.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +81,8 @@
 		CD0AAACF2512712A0064A262 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD0AAAD42512712A0064A262 /* API_PSR_ExamplesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = API_PSR_ExamplesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD0AAADF2512712A0064A262 /* API_PSR_ExamplesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = API_PSR_ExamplesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD122B6A25136A3B00702B44 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		CD122B6C25136A9100702B44 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		DA4D2EC88B0DD5653F0B91B6 /* Pods-API_PSR-API_PSRTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-API_PSR-API_PSRTests.debug.xcconfig"; path = "Target Support Files/Pods-API_PSR-API_PSRTests/Pods-API_PSR-API_PSRTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E19E6D1B2D52C98433FC2CC7 /* Pods-API_PSR_ExamplesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-API_PSR_ExamplesTests.debug.xcconfig"; path = "Target Support Files/Pods-API_PSR_ExamplesTests/Pods-API_PSR_ExamplesTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E3566E7FA31C24682C0DAFFE /* Pods-API_PSR-API_PSR_ExamplesUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-API_PSR-API_PSR_ExamplesUITests.debug.xcconfig"; path = "Target Support Files/Pods-API_PSR-API_PSR_ExamplesUITests/Pods-API_PSR-API_PSR_ExamplesUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -232,6 +236,7 @@
 		CDA8382F2512819500D07989 /* Files */ = {
 			isa = PBXGroup;
 			children = (
+				CD122B6C25136A9100702B44 /* Colors.xcassets */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -239,6 +244,7 @@
 		CDA838302512819500D07989 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
+				CD122B6A25136A3B00702B44 /* Colors.swift */,
 			);
 			path = Tools;
 			sourceTree = "<group>";
@@ -366,6 +372,7 @@
 				TargetAttributes = {
 					CD0AAA3525126D940064A262 = {
 						CreatedOnToolsVersion = 11.7;
+						LastSwiftMigration = 1170;
 					};
 					CD0AAA3E25126D950064A262 = {
 						CreatedOnToolsVersion = 11.7;
@@ -410,6 +417,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD122B6D25136A9100702B44 /* Colors.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -615,6 +623,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD122B6B25136A3B00702B44 /* Colors.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -814,6 +823,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 87D1AC0883EAFCAE80ADEFCE /* Pods-API_PSR.debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 6SA5U5Q7BM;
@@ -830,6 +840,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.paydunya.API-PSR";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -839,6 +850,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9C9807118D93F8BBAB0F9F3F /* Pods-API_PSR.release.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 6SA5U5Q7BM;
@@ -864,6 +876,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DA4D2EC88B0DD5653F0B91B6 /* Pods-API_PSR-API_PSRTests.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6SA5U5Q7BM;
 				INFOPLIST_FILE = API_PSRTests/Info.plist;
@@ -883,6 +896,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B45F80187A2538020E5208C9 /* Pods-API_PSR-API_PSRTests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6SA5U5Q7BM;
 				INFOPLIST_FILE = API_PSRTests/Info.plist;
